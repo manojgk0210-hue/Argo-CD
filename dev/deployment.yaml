@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: snake-game
-          image: manojgk1089/snake-game:4
+          image: manojgk1089/snake-game:1
           ports:
             - containerPort: 8080
